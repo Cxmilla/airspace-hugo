@@ -113,7 +113,7 @@ preloader = ""
 enable = true
 [[params.social]]
 icon = "ion-social-instagram-outline"
-link = "#"
+link = "https://l.messenger.com/l.php?u=https%3A%2F%2Finstagram.com%2Fuofcdess%3Figshid%3Dqbbpzmec3dtn&h=AT3tVN0gvt21SRxZKnkJktRuhh-B8IO1FeNjl4NLJgRBLE6v9JgP3FC3EIF0N0uDvWiSyb-huSYyIc0em3hadXzIoLyGg6kLBKtqc4B4UEYZcAfD8DBFLzW2W_IaXrg_U0nzyw"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
 link = "https://ca.linkedin.com/in/digital-engineering-students-society-0847b319b"
