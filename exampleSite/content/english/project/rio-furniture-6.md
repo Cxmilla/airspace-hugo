@@ -20,4 +20,6 @@ information2:
 ---
 ## Contact
 
+Feel free to contact me of any inquiries or questions you might have!
+
 Email: adrian.keung@ucalgary.ca
