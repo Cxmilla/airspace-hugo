@@ -120,7 +120,7 @@ preloader = ""
 [params.search]
 enable = true
 [[params.social]]
-icon = "ion-social-googleplus-outline"
+icon = "ion-social-instagram-outline"
 link = "#"
 [[params.social]]
 icon = "ion-social-linkedin-outline"
