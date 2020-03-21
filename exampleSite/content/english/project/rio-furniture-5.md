@@ -1,5 +1,5 @@
 ---
-title: Future VP
+title: First Year Representative
 description: this is meta description
 image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
