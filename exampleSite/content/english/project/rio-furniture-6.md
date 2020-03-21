@@ -5,8 +5,8 @@ image: "/images/AK.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: Name
+  info: Adrian Keung
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
