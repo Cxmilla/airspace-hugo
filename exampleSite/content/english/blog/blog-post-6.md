@@ -3,7 +3,7 @@ title: Schulich DinoBytes Qualified as First Alternate for 2020 SPL Team Competi
   in Bordeaux
 date: 2020-02-23T06:07:10+00:00
 author: Adrian Keung
-image: "/images/20200124_161452.jpg"
+image: "/images/20200124_161514.jpg"
 bg_image: images/featue-bg.jpg
 categories:
 - Company News
