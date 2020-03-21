@@ -33,3 +33,10 @@ fields:
   config:
     labelField: label
   hidden: false
+- name: information2
+  type: field_group_list
+  config:
+    min: 
+    max: 
+    labelField: 
+  label: Information2
