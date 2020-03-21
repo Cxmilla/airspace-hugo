@@ -44,14 +44,14 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - author
+  - project
 - type: directory
   path: exampleSite/content/french/project
   label: Team (fr)
   create: documents
   match: "**/*"
   templates:
-  - author
+  - project
 - type: heading
   label: Others Pages
 - type: directory
