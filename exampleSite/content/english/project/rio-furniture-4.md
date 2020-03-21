@@ -5,8 +5,8 @@ image: "/images/Alexa_Gee.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
-- label: Client
-  info: Jannie Kelonsky
+- label: Name
+  info: Alexa Gee
 - label: What We Did
   info: Website Redesign
 - label: Tools Used
