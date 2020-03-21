@@ -1,7 +1,7 @@
 ---
 title: VP Events
 description: this is meta description
-image: images/portfolio/work2.jpg
+image: "/images/clients/avater-2.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
