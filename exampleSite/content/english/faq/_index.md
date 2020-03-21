@@ -1,62 +1,37 @@
 ---
-title: "Frequently Asked Questions"
-description: "this is meta description"
-subtitle : "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae."
-date: 2019-12-23T13:05:29+06:00
-draft: false
-bg_image: "images/featue-bg.jpg"
+title: Frequently Asked Questions
+description: this is meta description
+subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+date: 2020-03-21T06:05:29+00:00
+bg_image: images/featue-bg.jpg
+
 ---
+### Welcome to DESS!
 
-### Welcome to Airspace!
+If you have any questions, ideas or anything to share to the association, feel free to contact us and provide us your contact details within the contact page.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia ullam sint quas pariatur ipsam nemo
-repellendus suscipit quod accusantium numquam tempora assumenda sequi, velit voluptatem soluta voluptatibus
-nesciunt ducimus iure. Excepturi voluptatum ullam tenetur perspiciatis alias delectus beatae voluptatibus
-magni facere aspernatur, qui, quas nesciunt blanditiis assumenda a expedita accusantium quos consectetur neque
-nemo. Necessitatibus est quod quo deserunt, dicta aut voluptatem blanditiis, alias quos sed vel unde enim
-dolore aliquam quis reiciendis qui vitae reprehenderit. Similique nemo accusamus, vel possimus error cumque
-quas, tempora repellendus velit, unde cupiditate impedit deserunt fugit labore et nostrum sapiente est
-obcaecati maiores voluptates.
+We will reply as soon as we can!
 
-#### 1.Overview
+#### 1.What does DESS stand for?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptas iusto, alias, tempora fuga quam eveniet
-neque excepturi aliquid. Eligendi, mollitia.
+It stands for Digital Engineering Students' Society :)
 
-#### 2. Data We Collect
+#### 2. When is your next event?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Alias, earum, quibusdam? Accusantium, eaque at
-quasi dicta quis consectetur. Temporibus, natus illo quasi, magni neque fugiat ducimus omnis, ab ullam
-reprehenderit obcaecati. Inventore ut nisi repellendus dolores odit. Ea molestias perspiciatis enim, tenetur
-impedit suscipit quidem optio asperiores quibusdam. Minus, vel.
+Feel free to follow us on Facebook, Instagram, Linkedin or visit this page for the latest updates on events and updates.
 
-#### 3. How We Use Data
+#### 3. Can I still join the events even if I am not in the Digital Minor?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Repellendus repellat id, laboriosam ipsa
-repudiandae quisquam, suscipit officiis, praesentium itaque facilis distinctio dolorum. Velit reiciendis
-libero laudantium corporis, delectus impedit sunt.
+Our events are not limited to those within the Digital Minor. We aim to be as inclusive as possible and even encourage those outside the minor to join and connect with us.
 
-#### 4. How We Disclose Data.
+#### 4. What is the digital minor?
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Tenetur itaque ut culpa totam ratione! Iste
-possimus beatae consequuntur, fugit iusto fugiat id, dignissimos culpa obcaecati voluptatum omnis est
-quibusdam quos, et illo rerum quae dolorem error quis suscipit asperiores facilis? Ratione, facere architecto
-modi incidunt voluptatibus iusto maiores, at libero accusamus aliquam dolor minus autem possimus illum maxime,
-fugit fuga! A libero adipisci molestias praesentium distinctio odio, alias accusantium, dolorum itaque,
-necessitatibus labore! Facilis explicabo pariatur laudantium quibusdam consequatur ex odio labore sequi animi.
-Voluptatem impedit, maiores, cupiditate, iure possimus neque quaerat natus aut minima quibusdam tempora
-magnam, vero itaque!
+The digital is a minor which teaches students to develop some software engineering and coding skills while pursuing a non-software engineering major. 
 
-#### 5. Security
+Students learn about artificial intelligence, machine learning, the Internet of Things and more. Feel free to check out more under this link: [https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors](https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors "https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors")
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Beatae blanditiis quod saepe, inventore ipsum sint
-cum iste quae ratione nobis laborum minima autem totam similique, quia neque deleniti! Provident, suscipit.
+#### 5. Is there a membership fee?
 
-#### 6. Advertising.
+At this time there are no plans on having a membership fee for being a member of DESS. However this may change in the future and updates on this can be found following our social media platform.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Delectus, eaque repellendus placeat aperiam fugit.
-Quod inventore quis quos, molestias nostrum tempora quae adipisci dolorem ipsam repellendus officia,
-voluptatem assumenda porro possimus, eius eum enim qui natus! Quas numquam voluptas reiciendis eveniet ab at
-provident omnis mollitia ipsa. Asperiores vero rem cum minima voluptas, vitae magni accusantium quae. Sed,
-expedita, ad.
-  
+#### 
