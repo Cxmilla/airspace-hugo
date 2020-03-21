@@ -15,6 +15,8 @@ information:
 social:
 - {}
 email: adrian.keung@ucalgary.ca
+information2:
+- testing: Hello
 
 ---
 ## Behance Website Redesign
