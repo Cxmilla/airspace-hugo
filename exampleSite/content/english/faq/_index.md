@@ -2,8 +2,13 @@
 title: Frequently Asked Questions
 description: Digital Engineering Students' Society
 subtitle: ''
-date: 2020-03-21T06:05:29+00:00
+date: '2020-03-21T06:05:29.000+00:00'
 bg_image: images/featue-bg.jpg
+menu:
+  footer:
+    URL: faq
+    name: FAQ
+    weight: 4
 
 ---
 ### Welcome to DESS!
@@ -44,4 +49,4 @@ Students learn about artificial intelligence, machine learning, the Internet of 
 
 At this time there are no plans on having a membership fee for being a member of DESS. However this may change in the future and updates on this can be found following our social media platform.
 
-#### 
+####
