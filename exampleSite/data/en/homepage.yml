@@ -65,7 +65,7 @@ funfacts:
     count: "200"
   testimonial_slider:
   - name: Adrian Keung
-    image: ''
+    image: images/AK.jpg
     designation: President
     content: ''
   - name: Shulamit Philips
