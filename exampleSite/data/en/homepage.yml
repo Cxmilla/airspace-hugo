@@ -70,6 +70,10 @@ funfacts:
     name: Combined Projects
     count: "200"
   testimonial_slider:
+  - name: Adrian Keung
+    image: ''
+    designation: ''
+    content: ''
   - name: Raymond Roy
     image: images/clients/avater-1.jpg
     designation: CEO-Themefisher
