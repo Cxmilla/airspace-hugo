@@ -9,9 +9,6 @@ information:
   info: Adrian Keung
 - label: Favorite Software Languages/Programs
   info: Solidworks / Matlab / Python / HTML
-- label: Club Experiences
-  info: AC Robotics, UofC Solar Car, Project90, Schulich DinoBytes, R.I.O.T, P2C,
-    FUSE and HCC
 - label: Favorite Quote
   info: '"Do things for people not because of who they are or what they do in return,
     but because of who you are." - Harold Kushner'
