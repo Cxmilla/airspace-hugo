@@ -81,7 +81,7 @@ contact_form_action = "#"
 description = "This is meta description"
 email = "uofcdess@gmail.com"
 google_analitycs_id = ""
-location = "University of Calgary"
+location = "2500 University Dr NW, Calgary, AB T2N 1N4"
 logo = "images/logo.png"
 mobile = ""
 [params.gmap]
