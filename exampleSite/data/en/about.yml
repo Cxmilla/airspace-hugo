@@ -37,7 +37,7 @@ about:
     count: "21"
 features:
   enable: true
-  title: Enhanced Learning Experience at DESS
+  title: Enhanced Experience at DESS
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: BE PART OF A COMMUNITY WITH DIGITAL ENGINEERS
@@ -62,9 +62,9 @@ features:
     content: Stay connected with us through our social media platforms and share your
       ideas of events and news you would like for us to hear.
   - icon: ion-ios-star-outline
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: PARTNERSHIPS
+    content: 'We aim through our partnership with other clubs and teams will open
+      up '
 testimonial:
   enable: true
 mission_vision:
