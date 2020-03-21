@@ -7,8 +7,8 @@ banner:
     learning within the new digital minor at the Schulich School of Engineering
   button:
     enable: true
-    label: Discover more!
-    link: project
+    label: About us
+    link: about
 about:
   enable: true
   title: About Us
