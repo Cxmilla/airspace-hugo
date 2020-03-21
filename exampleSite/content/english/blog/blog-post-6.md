@@ -15,7 +15,7 @@ description: Club Announcment
 type: post
 
 ---
-The Digital Engineering Students' Society wants to congratulate the Schulich Dinobytes for their incredible success in qualifying as the First Alternate for the 2020 SPL Team Competition in Bordeaux.
+The Digital Engineering Students' Society wants to congratulate the Schulich DinoBytes for their incredible success in qualifying as the First Alternate for the 2020 SPL Team Competition in Bordeaux.
 
 The team will now be focusing on improving their programming of the Nao Robots to self-localize and engage in a game of soccer. We wish them all the best and journey for the future.
 
