@@ -82,7 +82,7 @@ description = "This is meta description"
 email = "uofcdess@gmail.com"
 google_analitycs_id = ""
 location = "2500 University Dr NW, Calgary, AB T2N 1N4"
-logo = "81699046_622342525181240_4395327410258575360_n.jpg"
+logo = "Logo.jpg"
 mobile = ""
 [params.gmap]
 enable = true
