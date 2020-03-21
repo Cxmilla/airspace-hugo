@@ -42,7 +42,7 @@ weight = 6
 [[menu.main]]
 URL = "author"
 name = "Author"
-weight = "1"
+weight = "8"
 [[menu.main]]
 URL = "about"
 name = "About"
