@@ -9,6 +9,7 @@ social:
   link: "#"
 - icon: ion-social-pinterest-outline
   link: "#"
+image: "/images/20190406_121059.jpg"
 
 ---
 President of the Digital Engineering Students' Society
