@@ -7,7 +7,7 @@ theme = "airspace-hugo"
 title = "Digital Engineering Students' Society | DESS"
 [Languages.en]
 contentDir = "content/english"
-copyright = ""
+copyright = "Copyright © 2020 Themefisher"
 home = "Home"
 languageCode = "en-us"
 languageName = "En"
