@@ -53,7 +53,7 @@ name = "Our Team"
 weight = 2
 [[menu.main]]
 URL = "service"
-name = "Service"
+name = "Digital Minor"
 weight = 3
 [[menu.main]]
 URL = "blog"
