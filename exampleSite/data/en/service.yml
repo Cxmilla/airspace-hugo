@@ -52,9 +52,8 @@ service:
     name: Software Development
     content: ''
   - icon: ion-planet
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Internet of Things
+    content: ''
   - icon: ion-earth
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
