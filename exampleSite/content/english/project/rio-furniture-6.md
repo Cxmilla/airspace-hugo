@@ -1,7 +1,7 @@
 ---
 title: President
 description: Digital Engineering Students' Society
-image: images/portfolio/work6.jpg
+image: "/images/AK.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
