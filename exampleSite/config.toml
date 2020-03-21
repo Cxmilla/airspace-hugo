@@ -32,10 +32,6 @@ URL = "service"
 name = "Digital Minor"
 weight = 3
 [[menu.footer]]
-URL = "pricing"
-name = "Pricing"
-weight = 4
-[[menu.footer]]
 URL = "faq"
 name = "FAQ"
 weight = 5
