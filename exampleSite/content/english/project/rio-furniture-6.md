@@ -1,6 +1,6 @@
 ---
 title: President
-description: this is meta description
+description: Digital Engineering Students' Society
 image: images/portfolio/work6.jpg
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
