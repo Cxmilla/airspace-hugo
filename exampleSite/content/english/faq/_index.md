@@ -4,11 +4,6 @@ description: Digital Engineering Students' Society
 subtitle: ''
 date: '2020-03-21T06:05:29.000+00:00'
 bg_image: images/featue-bg.jpg
-menu:
-  footer:
-    URL: faq
-    name: FAQ
-    weight: 4
 
 ---
 ### Welcome to DESS!
