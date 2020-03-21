@@ -6,12 +6,11 @@ author: Adrian Keung
 image: "/images/20200124_161514.jpg"
 bg_image: images/featue-bg.jpg
 categories:
-- Company News
+- Schulich DinoBytes
 tags:
 - News
-- Retro
-- AI
-- Company
+- Clubs
+- Robotics
 description: this is meta description
 type: post
 
