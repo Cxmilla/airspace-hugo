@@ -26,7 +26,7 @@ Our events are not limited to those within the Digital Minor. We aim to be as in
 
 #### 4. What is the digital minor?
 
-The digital is a minor which teaches students to develop some software engineering and coding skills while pursuing a non-software engineering major. 
+The digital is a minor which teaches students to develop some software engineering and coding skills while pursuing a non-software engineering major.
 
 Students learn about artificial intelligence, machine learning, the Internet of Things and more. Feel free to check out more under this link: [https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors](https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors "https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors")
 
