@@ -1,7 +1,7 @@
 ---
 title: VP Finance and Operations
 description: this is meta description
-image: images/portfolio/work4.jpg
+image: "/images/Alexa_Gee.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
