@@ -23,11 +23,10 @@ featured_service:
     icon: ion-leaf
     color: primary-dark
     content: ''
-  - name: Game Development
+  - name: Introduction to the Internet of Things and cyber-physical systems.
     icon: ion-lightbulb
     color: primary-darker
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: ''
 service:
   enable: true
   title: What the Digital Minor offers
