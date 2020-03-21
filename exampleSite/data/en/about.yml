@@ -53,9 +53,10 @@ features:
       Calgary with our social events with students within and outside the Digital
       Minor. '
   - icon: ion-ios-mic-outline
-    name: Animation and Editing
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: INDUSTRY PANEL
+    content: At DESS, we understand that learning goes beyond classroom learning.
+      We aim to connect students with industry professionals, professors and graduate
+      students to share their experiences on their field, job experiences and research.
   - icon: ion-ios-lightbulb-outline
     name: UI/UX Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
