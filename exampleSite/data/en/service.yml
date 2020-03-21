@@ -3,16 +3,14 @@ about:
   enable: true
   title: Develop a rich understanding of digital engineering - an in-demand skill
     set in an ever-expanding digital world.
-  content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Voluptate soluta
-    corporis odit, optio cum! Accusantium numquam ab, natus excepturi architecto earum
-    ipsa aliquam, illum, omnis rerum, eveniet officia nihil. Eum quod iure nulla,
-    soluta architecto distinctio. Nesciunt odio ullam expedita, neque fugit maiores
-    sunt perferendis placeat autem animi, nihil quis suscipit quibusdam ut reiciendis
-    doloribus natus nemo id quod illum aut culpa perspiciatis consequuntur tempore?
-    Facilis nam vitae iure quisquam eius harum consequatur sapiente assumenda, officia
-    voluptas quas numquam placeat, alias molestias nisi laudantium nesciunt perspiciatis
-    suscipit hic voluptate corporis id distinctio earum. Dolor reprehenderit fuga
-    dolore officia adipisci neque!
+  content: "Increasingly, engineers are required to work with computer, information,
+    and digital technology as part of fulfilling their role on projects. No matter
+    what an engineer’s major area is whether it is chemical, oil and gas, civil, electrical,
+    software, geomatics, mechanical, there is a growing expectation that these professionals
+    are able toenhance and augment their focus with specialized knowledge of such
+    technologies. \n\nStudies have suggested that there exist a severe shortage of
+    engineers having digital skill sets. This minor aims to address this shortage
+    and equip graduating engineers with valuable and in-demand digital skills. "
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
