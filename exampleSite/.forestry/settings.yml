@@ -40,14 +40,14 @@ sections:
   label: Our Team
 - type: directory
   path: exampleSite/content/english/project
-  label: Project (en)
+  label: Team (en)
   create: documents
   match: "**/*"
   templates:
   - project
 - type: directory
   path: exampleSite/content/french/project
-  label: Project (fr)
+  label: Team (fr)
   create: documents
   match: "**/*"
   templates:
