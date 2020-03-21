@@ -17,7 +17,7 @@ about:
     of news, updates and info on all things Digital. \n\nIf you have any questions,
     feel free to navigate to our contact page and provide us any inquiries you might
     have. We will reach out to you as soon as we can, thanks!"
-  image: images/Logo_medium.png
+  image: images/Logo_medium.jpg
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
