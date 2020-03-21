@@ -1,6 +1,6 @@
 ---
 title: VP Finance and Operations
-description: this is meta description
+description: Digital Engineering Students' Society
 image: "/images/Alexa_Gee.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020

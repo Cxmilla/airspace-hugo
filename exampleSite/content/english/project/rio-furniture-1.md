@@ -1,6 +1,6 @@
 ---
 title: VP Communications
-description: this is meta description
+description: Digital Engineering Students' Society
 image: "/images/Stephanie_Chu.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
