@@ -9,8 +9,8 @@ information:
   info: Alexa Gee
 - label: 'Favorite Software Languages:'
   info: ''
-- label: Client
-  info: Jannie Kelonsky
+- label: Fun Fact
+  info: ''
 
 ---
 ## Behance Website Redesign
