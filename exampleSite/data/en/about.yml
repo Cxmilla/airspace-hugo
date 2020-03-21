@@ -37,16 +37,16 @@ about:
     count: "21"
 features:
   enable: true
-  title: Enhanced Experience at DESS
+  title: Enhanced Learning Experience at DESS
   feature_item:
   - icon: ion-ios-color-filter-outline
     name: BE PART OF A COMMUNITY WITH DIGITAL ENGINEERS
     content: At DESS we aim to connect students within and outside the Digital Minor
       to learn more about digital engineering.
   - icon: ion-ios-unlocked-outline
-    name: App Secutity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: HACKATHONS
+    content: DESS aims to host competitions and hackathons which are great platforms
+      for students to apply their learning and work together as a team to solve challenges.
   - icon: ion-ios-game-controller-b-outline
     name: Games Development
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
