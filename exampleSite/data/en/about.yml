@@ -16,8 +16,8 @@ about:
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
-    name: Completed Projects
-    count: "349"
+    name: Events hosted
+    count: "1"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
