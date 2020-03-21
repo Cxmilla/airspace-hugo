@@ -63,7 +63,7 @@ features:
     content: We aim to promote and open students to news and exclusive updates to
       events of other clubs and associations through partnerships.
 testimonial:
-  enable: false
+  enable: true
 mission_vision:
   enable: false
   tabs:
