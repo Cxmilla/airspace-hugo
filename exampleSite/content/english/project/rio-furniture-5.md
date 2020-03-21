@@ -1,6 +1,6 @@
 ---
 title: First Year Representative
-description: Will be announced soon!
+description: To be announced soon!
 image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
