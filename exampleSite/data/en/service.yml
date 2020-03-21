@@ -55,8 +55,7 @@ service:
     name: Internet of Things
     content: ''
   - icon: ion-earth
-    name: Brand Identity
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Data Analytics
+    content: ''
 cta:
   enable: true
