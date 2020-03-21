@@ -33,10 +33,3 @@ fields:
 - type: text
   name: email
   label: email
-- type: field_group_list
-  name: information2
-  label: information2
-  fields:
-  - type: text
-    name: testing
-    label: testing
