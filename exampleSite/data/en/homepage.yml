@@ -16,7 +16,9 @@ about:
   content: "The Digital Engineering Students' Society welcomes you to a page full
     of news, updates and info on all things Digital. \n\nIf you have any questions,
     feel free to navigate to our contact page and provide us any inquiries you might
-    have. We will reach out to you as soon as we can, thanks!"
+    have. We will reach out to you as soon as we can, thanks!\n\nIn addition to this
+    webpage, follow us on Facebook, Instagram, Linkedin or be part of our mailing
+    list to receive updates and news from DESS!"
   image: images/White_logo.jpg
 portfolio:
   enable: true
