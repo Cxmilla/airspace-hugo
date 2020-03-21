@@ -9,6 +9,7 @@ social:
   link: "#"
 - icon: ion-social-pinterest-outline
   link: "#"
+image: "/images/Stephanie_Chu-1.jpg"
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
