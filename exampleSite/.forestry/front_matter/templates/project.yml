@@ -31,4 +31,5 @@ fields:
     name: info
     label: info
   config:
-    labelField: info
+    labelField: label
+  hidden: true
