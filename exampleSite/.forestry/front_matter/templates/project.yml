@@ -44,5 +44,5 @@ fields:
   config:
     min: 
     max: 
-    labelField: 
+    labelField: email
   label: Social
