@@ -38,8 +38,7 @@ service:
     content: ''
   - icon: ion-compass
     name: Web Design
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    content: ''
   - icon: ion-image
     name: App Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
