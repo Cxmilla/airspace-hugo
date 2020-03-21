@@ -1,7 +1,7 @@
 ---
 title: Frequently Asked Questions
 description: Digital Engineering Students' Society
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sequi, repudiandae.
+subtitle: ''
 date: 2020-03-21T06:05:29+00:00
 bg_image: images/featue-bg.jpg
 
