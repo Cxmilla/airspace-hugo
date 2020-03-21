@@ -33,16 +33,3 @@ fields:
   config:
     labelField: label
   hidden: false
-- name: social
-  type: field_group_list
-  fields:
-  - name: email
-    type: text
-    config:
-      required: false
-    label: Email
-  config:
-    min: 
-    max: 
-    labelField: email
-  label: Social
