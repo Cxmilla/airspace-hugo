@@ -48,9 +48,10 @@ features:
     content: DESS aims to host competitions and hackathons which are great platforms
       for students to apply their learning and work together as a team to solve challenges.
   - icon: ion-ios-game-controller-b-outline
-    name: Games Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: SOCIAL EVENTS
+    content: 'At DESS we promote community and social bonding at the University of
+      Calgary with our social events with students within and outside the Digital
+      Minor. '
   - icon: ion-ios-mic-outline
     name: Animation and Editing
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
