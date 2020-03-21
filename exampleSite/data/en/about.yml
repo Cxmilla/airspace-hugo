@@ -67,6 +67,8 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
+  - name: Alexa Gee
+    content: ''
   - name: Adrian Keung
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
