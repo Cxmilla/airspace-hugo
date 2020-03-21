@@ -32,4 +32,4 @@ fields:
     label: info
   config:
     labelField: label
-  hidden: true
+  hidden: false
