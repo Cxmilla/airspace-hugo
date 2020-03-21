@@ -12,10 +12,9 @@ information:
 - label: Club Experiences
   info: AC Robotics, UofC Solar Car, Project90, Schulich DinoBytes, R.I.O.T, P2C,
     FUSE and HCC
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: ''
+- label: Favorite Quote
+  info: '"Do things for people not because of who they are or what they do in return,
+    but because of who you are." - Harold Kushner'
 
 ---
 ## Behance Website Redesign
