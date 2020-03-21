@@ -61,7 +61,7 @@ funfacts:
     name: Cups Of Coffee
     count: "99"
   - icon: ion-ios-glasses-outline
-    name: ''
+    name: Client satisfied!
     count: "45"
   - icon: ion-ios-compose-outline
     name: Projects Completed
