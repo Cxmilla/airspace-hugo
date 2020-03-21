@@ -1,6 +1,6 @@
 ---
 pricing:
-  enable: false
+  enable: true
   pricing_table:
   - name: Basic
     price: "$99"
@@ -36,4 +36,4 @@ pricing:
     - Email Marketing
     - 24/7 Tech Support
 cta:
-  enable: false
+  enable: true
