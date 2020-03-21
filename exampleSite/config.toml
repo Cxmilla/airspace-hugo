@@ -65,7 +65,7 @@ map_latitude = "51.0776"
 map_longitude = "114.1407"
 map_marker = "images/marker.png"
 [params.nav_button]
-enable = false
+enable = true
 label = "Contact Us"
 link = "contact"
 [[params.plugins.css]]
@@ -92,7 +92,7 @@ link = "plugins/google-map/gmap.js"
 enable = true
 preloader = ""
 [params.search]
-enable = false
+enable = true
 [[params.social]]
 icon = "ion-social-instagram-outline"
 link = "https://l.messenger.com/l.php?u=https%3A%2F%2Finstagram.com%2Fuofcdess%3Figshid%3Dqbbpzmec3dtn&h=AT3tVN0gvt21SRxZKnkJktRuhh-B8IO1FeNjl4NLJgRBLE6v9JgP3FC3EIF0N0uDvWiSyb-huSYyIc0em3hadXzIoLyGg6kLBKtqc4B4UEYZcAfD8DBFLzW2W_IaXrg_U0nzyw"
