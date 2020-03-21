@@ -13,7 +13,7 @@ information:
   info: <br/>"Do things for people not because of who they are or what they do in
     return, but because of who you are." - Harold Kushner
 social:
-- {}
+- email: adrian.keung@ucalgary.ca
 email: adrian.keung@ucalgary.ca
 information2:
 - testing: Hello
