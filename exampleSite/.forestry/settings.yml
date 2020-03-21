@@ -44,7 +44,6 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - author
   - project
 - type: directory
   path: exampleSite/content/french/project
@@ -52,7 +51,6 @@ sections:
   create: documents
   match: "**/*"
   templates:
-  - author
   - project
 - type: heading
   label: Others Pages
