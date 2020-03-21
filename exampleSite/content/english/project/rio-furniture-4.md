@@ -7,14 +7,8 @@ category: Executive Council 2020
 information:
 - label: Name
   info: Alexa Gee
-- label: What We Did
-  info: Website Redesign
-- label: Tools Used
-  info: Photoshop,Illustrator
-- label: Completed on
-  info: 17th March 2014
-- label: Skills
-  info: HTML5 / PHP / CSS3
+- label: 'Favorite Software Languages:'
+  info: ''
 - label: Client
   info: Jannie Kelonsky
 
