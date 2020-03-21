@@ -1,7 +1,7 @@
 ---
 title: Latest News
-description: Updates and all things Digital Minor
+description: Update, news and all things Digital Minor
 bg_image: images/featue-bg.jpg
-date: 2020-03-21T06:00:00+00:00
+date: 2020-03-21T06:00:00.000+00:00
 
 ---
