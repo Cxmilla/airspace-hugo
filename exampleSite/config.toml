@@ -14,7 +14,7 @@ languageName = "En"
 weight = 1
 [Languages.fr]
 contentDir = "content/french"
-copyright = "[Themefisher](https://themefisher.com)"
+copyright = ""
 home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
