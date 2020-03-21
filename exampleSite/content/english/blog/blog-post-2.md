@@ -2,8 +2,8 @@
 title: DESS Board Game Social Event!
 date: 2020-03-06T22:00:00+00:00
 author: Adrian Keung
-image: images/blog/blog-post-2.jpg
-bg_image: "/images/Board_game_pic.jpg"
+image: "/images/Board_game_pic.jpg"
+bg_image: "/images/featue-bg.jpg"
 categories:
 - Social Event
 tags:
