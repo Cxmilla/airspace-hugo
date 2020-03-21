@@ -29,7 +29,7 @@ name = "Our Team"
 weight = 2
 [[menu.footer]]
 URL = "service"
-name = "Service"
+name = "Digital Minor"
 weight = 3
 [[menu.footer]]
 URL = "pricing"
