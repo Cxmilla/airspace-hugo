@@ -65,9 +65,9 @@ features:
 testimonial:
   enable: false
 mission_vision:
-  enable: false
+  enable: true
   tabs:
-  - name: Vision
+  - name: Adrian Keung
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
       ducimus facere repellat harum, eius cupiditate, aliquam aut deserunt. Nemo illo
       ex impedit autem quod nobis architecto, velit quasi, aut voluptas porro natus.
