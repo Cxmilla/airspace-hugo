@@ -1,7 +1,7 @@
 ---
 title: VP Communications
 description: this is meta description
-image: "/images/clients/avater-3.jpg"
+image: "/images/Stephanie_Chu.jpg"
 bg_image: images/featue-bg.jpg
 category: Executive Council 2020
 information:
