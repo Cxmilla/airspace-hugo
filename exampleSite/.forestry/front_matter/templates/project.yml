@@ -35,6 +35,12 @@ fields:
   hidden: false
 - name: information2
   type: field_group_list
+  fields:
+  - name: testing
+    type: text
+    config:
+      required: false
+    label: Testing
   config:
     min: 
     max: 
