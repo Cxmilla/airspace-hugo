@@ -39,14 +39,14 @@ sections:
 - type: heading
   label: Our Team
 - type: directory
-  path: exampleSite/content/english/project
+  path: exampleSite/content/english/team
   label: Team (en)
   create: documents
   match: "**/*"
   templates:
   - project
 - type: directory
-  path: exampleSite/content/french/project
+  path: exampleSite/content/french/team
   label: Team (fr)
   create: documents
   match: "**/*"
