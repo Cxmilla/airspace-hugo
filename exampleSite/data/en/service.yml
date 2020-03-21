@@ -49,9 +49,8 @@ service:
     name: Logo Design
     content: ''
   - icon: ion-leaf
-    name: Development
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Software Development
+    content: ''
   - icon: ion-planet
     name: Brand Identity
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
