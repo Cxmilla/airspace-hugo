@@ -1,9 +1,9 @@
 ---
-title: Rio Furniture
+title: Future VP
 description: this is meta description
 image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
-category: VP Communication
+category: Executive Council 2022
 information:
 - label: Client
   info: Jannie Kelonsky
