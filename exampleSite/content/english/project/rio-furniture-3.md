@@ -8,7 +8,7 @@ information:
 - label: Name
   info: N/A
 - label: Skills
-  info: HTML5 / PHP / CSS3
+  info: N/A
 - label: Client
   info: Jannie Kelonsky
 
