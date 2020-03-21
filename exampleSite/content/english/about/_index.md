@@ -1,6 +1,6 @@
 ---
-title: About our Association
-description: Digital Engineering Students' Society
+title: About Our Association
+description: this is meta description
 bg_image: images/featue-bg.jpg
 
 ---
