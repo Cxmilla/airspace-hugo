@@ -11,7 +11,7 @@ tags:
 - News
 - Clubs
 - Robotics
-description: this is meta description
+description: Club Announcment
 type: post
 
 ---
