@@ -9,8 +9,8 @@ information:
   info: N/A
 - label: Skills
   info: N/A
-- label: Client
-  info: Jannie Kelonsky
+- label: Fun Fact
+  info: N/A
 
 ---
 ## Contact
