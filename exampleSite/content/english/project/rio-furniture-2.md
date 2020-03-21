@@ -9,8 +9,8 @@ information:
   info: Shulamit Philips
 - label: 'Favorite Software Languages:'
   info: ''
-- label: Client
-  info: Jannie Kelonsky
+- label: Fun Fact
+  info: ''
 
 ---
 ## Contact
