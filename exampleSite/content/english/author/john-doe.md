@@ -12,5 +12,4 @@ social:
 image: "/images/Stephanie_Chu-1.jpg"
 
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin sit amet vulputate augue. Duis auctor lacus id vehicula gravida. Nam suscipit vitae purus et laoreet.
-Donec nisi dolor, consequat vel pretium id, auctor in dui. Nam iaculis, neque ac ullamcorper.
+VP Communications of the Digital Engineering Students' Society
