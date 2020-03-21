@@ -21,14 +21,16 @@ about:
 portfolio:
   enable: true
   bg_image: images/featue-bg.jpg
-  title: DIGITAL ENGINEERING
+  title: What is DESS?
   content: |-
-    Our association is founded from the new Digital Minor at the Schulich School of Engineering where we aim to represent as a student association for the minor.
+    DESS is an association founded from the new Digital Minor at the Schulich School of Engineering where we aim to represent engineering students in the Digital Minor at the University of Calgary.
+
+    As a student body, we aim to promote and host events pertaining to all things digital in and around Calgary to help enhance learning and understanding of programming and application of digital engineering.
 
     "In a digital world, all engineers need to be able to work with complex technologies. This digital minor allows you to expand your skills and prepares you for the possibilities of a high-tech career in any engineering field you pursue." - Dr. Diwakar Krishnamurthy
   button:
     enable: true
-    label: Digital Minor
+    label: More About the Digital Minor
     link: service
 service:
   enable: true
