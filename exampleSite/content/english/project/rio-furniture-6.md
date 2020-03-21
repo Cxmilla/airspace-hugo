@@ -7,7 +7,7 @@ category: Executive Council 2020
 information:
 - label: Name
   info: Adrian Keung
-- label: Favorite Software Languages
+- label: 'Favorite Software Languages:'
   info: Python and HTML
 - label: Favorite Dessert
   info: Baklava
