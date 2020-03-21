@@ -43,9 +43,8 @@ service:
     name: App Design
     content: ''
   - icon: ion-bug
-    name: Start Up
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: Debugging
+    content: ''
   - icon: ion-headphone
     name: Logo Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
