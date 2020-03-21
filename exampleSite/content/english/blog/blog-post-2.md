@@ -13,6 +13,6 @@ description: Social Event
 type: post
 
 ---
-DESS's first event brought together first
+DESS's first social event brought in students from mechanical, software, electrical and the curiosity of many others. We hope everyone who participated had an amazing time and keep in touch for any news of events we will host in the future.
 
-> "It was a really fun event, seeing students from across different years and faculties come together and de-stress from studying midterms. This event wouldn't have been possible without the amazing work and invitations and donations of snacks made from the DESS's executive council members" - Adrian Keung
+> "It was a really fun event, seeing students from across different years and faculties come together and de-stress from studying midterms. This event wouldn't have been possible without the amazing work, invitations and donations of snacks made from the DESS's executive council members." - Adrian Keung
