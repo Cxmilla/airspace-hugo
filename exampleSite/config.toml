@@ -25,7 +25,7 @@ name = "About"
 weight = 1
 [[menu.footer]]
 URL = "project"
-name = "Project"
+name = "Our Team"
 weight = 2
 [[menu.footer]]
 URL = "service"
@@ -66,10 +66,6 @@ weight = 5
 [[menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
-[[menu.main]]
-URL = "pricing"
-name = "Pricing"
 parent = "Pages"
 [[menu.main]]
 URL = "contact"
