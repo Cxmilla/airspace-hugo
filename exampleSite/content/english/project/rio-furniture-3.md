@@ -3,7 +3,7 @@ title: Future VP
 description: this is meta description
 image: images/portfolio/work3.jpg
 bg_image: images/featue-bg.jpg
-category: Executive Council 2022
+category: Executive Council 2021
 information:
 - label: Client
   info: Jannie Kelonsky
