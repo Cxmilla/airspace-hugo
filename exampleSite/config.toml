@@ -20,54 +20,53 @@ languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
 [[menu.footer]]
+URL = "about"
+name = "About"
+weight = 1
+[[menu.footer]]
 URL = "project"
 name = "Our Team"
 weight = 2
-[[menu.footer]]
-URL = "contact"
-name = "Contact"
-weight = 5
-[[menu.footer]]
-URL = "faq"
-name = "FAQ"
-weight = 4
 [[menu.footer]]
 URL = "service"
 name = "Digital Minor"
 weight = 3
 [[menu.footer]]
-URL = "about"
-name = "About"
-weight = 1
-[[menu.main]]
 URL = "faq"
 name = "FAQ"
-parent = "Pages"
+weight = 5
+[[menu.footer]]
+URL = "contact"
+name = "Contact"
+weight = 6
+[[menu.main]]
+URL = "about"
+name = "About"
 weight = 1
 [[menu.main]]
 URL = "project"
 name = "Our Team"
 weight = 2
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
-[[menu.main]]
-hasChildren = true
-name = "Pages"
-weight = 5
+URL = "service"
+name = "Digital Minor"
+weight = 3
 [[menu.main]]
 URL = "blog"
 name = "Blog"
 weight = 4
 [[menu.main]]
-URL = "service"
-name = "Digital Minor"
-weight = 3
+hasChildren = true
+name = "Pages"
+weight = 5
 [[menu.main]]
-URL = "about"
-name = "About"
-weight = 1
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
+[[menu.main]]
+URL = "contact"
+name = "Contact"
+weight = 6
 [params]
 author = "Digital Engineering Students' Society"
 contact_form_action = "#"
