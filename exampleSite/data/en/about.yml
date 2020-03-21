@@ -63,9 +63,9 @@ features:
     content: We aim to promote and open students to news and exclusive updates to
       events of other clubs and associations through partnerships.
 testimonial:
-  enable: true
+  enable: false
 mission_vision:
-  enable: true
+  enable: false
   tabs:
   - name: Vision
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Inventore nobis
