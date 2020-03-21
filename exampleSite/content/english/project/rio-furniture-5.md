@@ -3,7 +3,7 @@ title: First Year Representative
 description: this is meta description
 image: images/portfolio/work5.jpg
 bg_image: images/featue-bg.jpg
-category: Executive Council 2021
+category: Executive Council 2020
 information:
 - label: Client
   info: Jannie Kelonsky
