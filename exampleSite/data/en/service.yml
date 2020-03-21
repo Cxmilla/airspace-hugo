@@ -19,11 +19,10 @@ featured_service:
     icon: ion-erlenmeyer-flask
     color: primary
     content: ''
-  - name: Product Branding
+  - name: Introduction to artificial intelligence systems and machine learning systems
     icon: ion-leaf
     color: primary-dark
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Saepe enim
-      impedit repudiandae omnis est temporibus.
+    content: ''
   - name: Game Development
     icon: ion-lightbulb
     color: primary-darker
