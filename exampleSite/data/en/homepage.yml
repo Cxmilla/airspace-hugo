@@ -13,10 +13,10 @@ about:
   enable: true
   title: Welcome!
   description: ''
-  content: The Digital Engineering Students' Society welcomes you to a page full of
-    news, updates and info on all things Digital. If you have any questions, feel
-    free to navigate to our contact page and provide us any inquiries you might have.
-    We will reach out to you as soon as we can, thanks!
+  content: "The Digital Engineering Students' Society welcomes you to a page full
+    of news, updates and info on all things Digital. \n\nIf you have any questions,
+    feel free to navigate to our contact page and provide us any inquiries you might
+    have. We will reach out to you as soon as we can, thanks!"
   image: images/wrapper-img.png
 portfolio:
   enable: true
