@@ -29,14 +29,13 @@ featured_service:
     content: ''
 service:
   enable: true
-  title: What the Digital Minor can help you learn
+  title: What you can learn to apply from the Digital Minor
   description: '"The courses in digital engineering will emphasize peer learning and
     project-oriented experiences, grounded in real-world data." - EASC'
   service_item:
   - icon: ion-coffee
-    name: Branding
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-      tempor incididunt ut
+    name: AI and Machine Learning
+    content: ''
   - icon: ion-compass
     name: Web Design
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
