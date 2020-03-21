@@ -7,11 +7,11 @@ category: Executive Council 2020
 information:
 - label: Name
   info: Adrian Keung
-- label: Favorite Software Language
+- label: Favorite Software Languages
   info: Python and HTML
 - label: Favorite Quote
-  info: '"Do things for people not because of who they are or what they do in return,
-    but because of who you are." - Harold Kushner'
+  info: <br/>"Do things for people not because of who they are or what they do in
+    return, but because of who you are." - Harold Kushner
 
 ---
 ## Behance Website Redesign
