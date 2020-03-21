@@ -65,15 +65,10 @@ features:
 testimonial:
   enable: true
 mission_vision:
-  enable: false
+  enable: true
   tabs:
-  - name: Mission
-    content: ''
-  - name: Vision
-    content: ''
-  - name: Goal
-    content: ''
-  - name: ''
-    content: ''
+  - name: Quote of the day
+    content: "“Coming together is a beginning, staying together is progress, and working
+      together is success.” – Henry Ford"
 cta:
   enable: true
