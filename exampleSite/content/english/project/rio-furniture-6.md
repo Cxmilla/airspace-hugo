@@ -9,8 +9,9 @@ information:
   info: Adrian Keung
 - label: Favorite Software Languages/Programs
   info: Solidworks / Matlab / Python / HTML
-- label: Tools Used
-  info: Photoshop,Illustrator
+- label: Club Experiences
+  info: AC Robotics, UofC Solar Car, Project90, Schulich DinoBytes, R.I.O.T, P2C,
+    FUSE and HCC
 - label: Completed on
   info: 17th March 2014
 - label: Skills
