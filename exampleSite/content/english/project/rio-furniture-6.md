@@ -18,4 +18,6 @@ information2:
 - testing: Hello
 
 ---
-## President of DESS
+## Contact
+
+Email: adrian.keung@ucalgary.ca
