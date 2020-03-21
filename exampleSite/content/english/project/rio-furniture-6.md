@@ -9,10 +9,8 @@ information:
   info: Adrian Keung
 - label: Favorite Software Languages
   info: Python and HTML
-- label: Favorite Quote
-  info: '                                                "Do things for people not
-    because of who they are or what they do in return, but because of who you are."
-    - Harold Kushner'
+- label: Favorite Dessert
+  info: Baklava
 social:
 - email: adrian.keung@ucalgary.ca
 email: adrian.keung@ucalgary.ca
