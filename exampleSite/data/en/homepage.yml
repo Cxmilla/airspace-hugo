@@ -44,8 +44,8 @@ cta:
   enable: true
   bg_image: images/call-to-action-bg.jpg
   title: We love to get in touch!
-  content: Read more about what we do and our philosophy of design. Judge for yourself
-    The work and results <br> we’ve achieved for students, and meet our highly experienced
+  content: Read more about what we do and our philosophy. Judge for yourself The work
+    and results <br> we’ve achieved for students, and meet our highly experienced
     team.
   button:
     enable: true
