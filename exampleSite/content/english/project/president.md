@@ -1,10 +1,15 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
-description = ""
+description = "Digital Engineering Students' Society"
 image = "/images/AK.jpg"
-information = []
 title = "President"
+[[information]]
+info = "Adrian Keung"
+label = "Name"
+[[information]]
+info = "Python"
+label = "Favorite Software Language:"
 
 +++
 # Contact
