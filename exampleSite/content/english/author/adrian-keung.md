@@ -6,6 +6,9 @@ title = "Adrian Keung"
 icon = "ion-social-instagram-outline"
 link = ""
 [[social]]
+icon = "ion-social-instagram-outline"
+link = ""
+[[social]]
 icon = "ion-social-facebook-outline"
 link = ""
 
