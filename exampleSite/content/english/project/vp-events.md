@@ -9,7 +9,7 @@ info = "Shulamit Philips"
 label = "Name"
 [[information]]
 info = ""
-label = "Favorite Software Language:"
+label = "Favorite Programming Language:"
 
 +++
 # Contact
