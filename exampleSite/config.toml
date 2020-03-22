@@ -19,36 +19,35 @@ home = "Accueil"
 languageCode = "fr-fr"
 languageName = "Fr"
 weight = 2
-[menu]
-footer = []
 [[menu.main]]
-URL = "about"
-name = "About"
+URL = "faq"
+name = "FAQ"
+parent = "Pages"
 weight = 1
 [[menu.main]]
 URL = "project"
 name = "Our Team"
 weight = 2
 [[menu.main]]
-URL = "service"
-name = "Digital Minor"
-weight = 3
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 4
+URL = "contact"
+name = "Contact"
+weight = 6
 [[menu.main]]
 hasChildren = true
 name = "Pages"
 weight = 5
 [[menu.main]]
-URL = "faq"
-name = "FAQ"
-parent = "Pages"
+URL = "blog"
+name = "Blog"
+weight = 4
 [[menu.main]]
-URL = "contact"
-name = "Contact"
-weight = 6
+URL = "service"
+name = "Digital Minor"
+weight = 3
+[[menu.main]]
+URL = "about"
+name = "About"
+weight = 1
 [params]
 author = "Digital Engineering Students' Society"
 contact_form_action = "# N/A"
