@@ -13,3 +13,4 @@ icon = "ion-social-facebook-outline"
 link = ""
 
 +++
+Co-founder and President of the Digital Engineering Students' Society
