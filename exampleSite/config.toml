@@ -56,7 +56,7 @@ email = "uofcdess@gmail.com"
 google_analitycs_id = ""
 location = "2500 University Dr NW, Calgary, AB T2N 1N4"
 logo = "images/Logo_banner_white_text.jpg"
-mobile = "N/A"
+mobile = "000 000 0000"
 [params.gmap]
 enable = true
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyCcABaamniA6OL5YvYSpB3pFMNrXwXnLwU&libraries=places"
