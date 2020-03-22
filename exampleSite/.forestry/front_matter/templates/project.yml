@@ -35,4 +35,5 @@ fields:
   hidden: false
 pages:
 - exampleSite/content/english/project/president.md
+- exampleSite/content/english/project/vp-events.md
 - exampleSite/content/english/project/vp-finance-and-operations.md
