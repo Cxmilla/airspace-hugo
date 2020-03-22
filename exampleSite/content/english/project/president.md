@@ -8,7 +8,7 @@ title = "President"
 info = "Adrian Keung"
 label = "Name"
 [[information]]
-info = "Python"
+info = "Python and HTML"
 label = "Favorite Software Language:"
 
 +++
