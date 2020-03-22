@@ -90,7 +90,7 @@ link = "plugins/shuffle/shuffle.min.js"
 link = "plugins/google-map/gmap.js"
 [params.preloader]
 enable = true
-preloader = ""
+preloader = "images/White_logo.jpg"
 [params.search]
 enable = true
 [[params.social]]
