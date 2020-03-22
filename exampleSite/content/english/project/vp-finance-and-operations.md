@@ -7,5 +7,8 @@ title = "VP Finance and Operations"
 [[information]]
 info = "Alexa Gee"
 label = "Name"
+[[information]]
+info = ""
+label = "Favorite Software Language:"
 
 +++
