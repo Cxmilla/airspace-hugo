@@ -14,4 +14,4 @@ label = "Name"
 +++
 # Contact
 
-Email:
+Email: stephanie.chu2@ucalgary.ca
