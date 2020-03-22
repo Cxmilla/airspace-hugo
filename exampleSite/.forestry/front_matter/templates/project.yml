@@ -33,3 +33,5 @@ fields:
   config:
     labelField: label
   hidden: false
+pages:
+- exampleSite/content/english/project/president.md
