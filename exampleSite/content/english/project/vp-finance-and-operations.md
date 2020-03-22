@@ -14,4 +14,4 @@ label = "Favorite Programming Language:"
 +++
 # Contact
 
-Email:
+Email: alexa.gee@ucalgary.ca
