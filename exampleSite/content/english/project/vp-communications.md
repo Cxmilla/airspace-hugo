@@ -12,3 +12,6 @@ info = "Stephanie Chu"
 label = "Name"
 
 +++
+# Contact
+
+Email:
