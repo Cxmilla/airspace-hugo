@@ -22,8 +22,8 @@ weight = 2
 [menu]
 footer = []
 [[menu.main]]
-URL = "created pages"
-name = "Testing"
+URL = "pricing"
+name = "Contact Us"
 weight = "8"
 [[menu.main]]
 URL = "about"
