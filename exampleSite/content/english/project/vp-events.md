@@ -14,4 +14,4 @@ label = "Favorite Programming Language:"
 +++
 # Contact
 
-Email:
+Email: shulamit.philips1@ucalgary.ca
