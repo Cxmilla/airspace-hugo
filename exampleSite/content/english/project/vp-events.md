@@ -5,10 +5,13 @@ description = "Digital Engineering Students' Society"
 image = "/images/Shulamit_Philips.jpg"
 title = "VP Events"
 [[information]]
-info = ""
-label = "Favorite Software Language:"
-[[information]]
 info = "Shulamit Philips"
 label = "Name"
+[[information]]
+info = ""
+label = "Favorite Software Language:"
 
 +++
+# Contact
+
+Email:
