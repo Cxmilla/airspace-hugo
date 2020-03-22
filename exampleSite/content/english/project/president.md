@@ -9,7 +9,7 @@ info = "Adrian Keung"
 label = "Name"
 [[information]]
 info = "Python and HTML"
-label = "Favorite Software Language:"
+label = "Favorite programming language:"
 
 +++
 # Contact
