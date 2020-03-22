@@ -12,3 +12,6 @@ info = ""
 label = "Favorite Software Language:"
 
 +++
+# Contact
+
+Email:
