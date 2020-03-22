@@ -6,7 +6,7 @@ image = "/images/Stephanie_Chu-1.jpg"
 title = "VP Communications"
 [[information]]
 info = ""
-label = "Favorite Software Language:"
+label = "Favorite Programming Language:"
 [[information]]
 info = "Stephanie Chu"
 label = "Name"
