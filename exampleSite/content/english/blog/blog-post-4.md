@@ -1,7 +1,7 @@
 ---
 title: Digital News
-date: 2020-03-21T17:07:10+00:00
-author: Adrian Keung
+date: 2020-03-21T17:07:10.000+00:00
+author: Adrian
 image: images/blog/blog-post-4.jpg
 bg_image: images/featue-bg.jpg
 categories:
