@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
-description = "Digital Engineering Students' Society"
+description = "Alexa Gee"
 image = "/images/Alexa_Gee.jpg"
 title = "VP Finance and Operations"
 [[information]]
