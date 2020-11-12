@@ -1,7 +1,7 @@
 +++
 bg_image = ""
 category = ""
-description = ""
+description = "Camilla Abdrazakov"
 draft = true
 image = ""
 information = []
