@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = ""
+category = "Executive Council 2020"
 description = "Camilla Abdrazakov"
 draft = true
 image = ""
