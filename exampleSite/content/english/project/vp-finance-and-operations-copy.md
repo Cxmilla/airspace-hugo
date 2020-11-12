@@ -2,7 +2,6 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
 description = "Nurgul A."
-draft = true
 image = ""
 title = "Digital Minor First Year Representative"
 [[information]]
