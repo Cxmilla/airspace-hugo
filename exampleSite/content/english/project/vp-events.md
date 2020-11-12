@@ -1,7 +1,7 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
-description = "Digital Engineering Students' Society"
+description = "Shulamit Philips"
 image = "/images/Shulamit_Philips.jpg"
 title = "VP Events"
 [[information]]
