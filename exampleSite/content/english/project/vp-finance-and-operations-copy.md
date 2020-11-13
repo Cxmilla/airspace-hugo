@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
 description = "Nurgul A."
-image = ""
+image = "/images/blog/blog-post-1.jpg"
 title = "Digital Minor First Year Representative"
 [[information]]
 info = "Alexa Gee"
