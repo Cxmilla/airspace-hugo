@@ -15,23 +15,23 @@ about:
     link: "#"
   funfacts:
   - icon: ion-ios-flask-outline
-    name: Hackathons and Competitions Hosted
-    count: "0"
+    name: Midterm Review Sessions Hosted
+    count: "1"
   - icon: ion-ios-flame-outline
     name: Lines Of Code
     count: "35000"
   - icon: ion-ios-pint-outline
     name: Students Enrolled
-    count: "50"
+    count: "120"
   - icon: ion-ios-wineglass-outline
     name: Social Events Hosted
-    count: "1"
+    count: "2"
   - icon: ion-ios-chatboxes-outline
     name: Club Partnerships
     count: "3"
   - icon: ion-ios-body-outline
     name: DESS Members
-    count: "26"
+    count: "66"
 features:
   enable: true
   title: Enhanced Experience at DESS
