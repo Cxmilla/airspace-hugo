@@ -67,7 +67,7 @@ testimonial:
 mission_vision:
   enable: true
   tabs:
-  - name: Quote of the day
+  - name: Quote of the year
     content: "“Coming together is a beginning, staying together is progress, and working
       together is success.” – Henry Ford"
 cta:
