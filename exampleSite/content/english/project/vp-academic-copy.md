@@ -7,4 +7,6 @@ information = []
 title = "VP Finance and Operations"
 
 +++
+# Contact
+
 Email: camilla.abdrazakov@ucalgary.ca
