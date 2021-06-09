@@ -15,7 +15,7 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Introduction to the Internet of Things and cyber-physical systems.
+  - name: Introduction to the Internet of Things and cyber-physical systems
     icon: ion-lightbulb
     color: primary-darker
     content: ''
