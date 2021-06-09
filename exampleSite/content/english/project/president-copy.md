@@ -1,10 +1,10 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2020"
+category = "Executive Council 2021"
 description = "Adrian Keung"
 draft = true
 image = "/images/AK.jpg"
-title = "President-(copy)"
+title = "VP External"
 [[information]]
 info = "Adrian Keung"
 label = "Name"
