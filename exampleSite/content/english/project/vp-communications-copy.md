@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2020"
+category = "Executive Council 2021"
 description = "Stephanie Chu"
 image = "/images/Stephanie_Chu-1.jpg"
 title = "Co-President"
