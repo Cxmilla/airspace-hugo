@@ -13,6 +13,6 @@ description: Coding
 type: post
 
 ---
-Digital News
+# Digital News
 
 > Feel free to follow our social media platform in the contacts page to get the latest news on all things DESS.
