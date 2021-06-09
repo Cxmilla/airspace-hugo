@@ -2,6 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
 description = "Shulamit Philips"
+draft = true
 image = "/images/Shulamit_Philips.jpg"
 title = "VP Events"
 [[information]]
