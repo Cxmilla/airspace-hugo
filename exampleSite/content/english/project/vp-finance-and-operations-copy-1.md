@@ -1,10 +1,10 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2020"
+category = "Executive Council 2021"
 description = "Alexa Gee"
 draft = true
 image = "/images/Alexa_Gee.jpg"
-title = "VP Finance and Operations-(copy)"
+title = "Co-President"
 [[information]]
 info = "Alexa Gee"
 label = "Name"
