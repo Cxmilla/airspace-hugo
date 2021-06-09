@@ -13,3 +13,5 @@ label = "Favorite Programming Language:"
 
 +++
 # Contact
+
+Email: nurgul.akhshatayeva@ucalgary.ca
