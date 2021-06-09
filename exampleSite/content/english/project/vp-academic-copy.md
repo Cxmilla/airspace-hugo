@@ -1,10 +1,10 @@
 +++
 bg_image = ""
-category = "Executive Council 2020"
+category = "Executive Council 2021"
 description = "Camilla Abdrazakov"
 draft = true
 image = "/images/portfolio/work1.jpg"
 information = []
-title = "VP Academic-(copy)"
+title = "VP Finance and Operations"
 
 +++
