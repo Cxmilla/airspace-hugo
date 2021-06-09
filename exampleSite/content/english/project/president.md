@@ -2,6 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2020"
 description = "Adrian Keung"
+draft = true
 image = "/images/AK.jpg"
 title = "President"
 [[information]]
