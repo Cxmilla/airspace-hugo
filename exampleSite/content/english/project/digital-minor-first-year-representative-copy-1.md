@@ -4,7 +4,7 @@ category = "Executive Council 2020"
 description = "Nurgul A."
 draft = true
 image = "/images/blog/blog-post-1.jpg"
-title = "Digital Minor First Year Representative-(copy)"
+title = "Digital Minor First Year Representative"
 [[information]]
 info = "Alexa Gee"
 label = "Name"
