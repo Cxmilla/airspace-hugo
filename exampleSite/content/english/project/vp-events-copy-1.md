@@ -1,8 +1,7 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2020"
+category = "Executive Council 2021"
 description = "Julien Lagacé"
-draft = true
 image = "/images/portfolio/work3.jpg"
 title = "VP Events Comissioner"
 [[information]]
