@@ -15,17 +15,17 @@ about:
 featured_service:
   enable: true
   service_item:
-  - name: Introduction to industry-standard coding languages
-    icon: ion-erlenmeyer-flask
-    color: primary
+  - name: Introduction to the Internet of Things and cyber-physical systems.
+    icon: ion-lightbulb
+    color: primary-darker
     content: ''
   - name: Introduction to artificial intelligence systems and machine learning systems
     icon: ion-leaf
     color: primary-dark
     content: ''
-  - name: Introduction to the Internet of Things and cyber-physical systems.
-    icon: ion-lightbulb
-    color: primary-darker
+  - name: Introduction to industry-standard coding languages
+    icon: ion-erlenmeyer-flask
+    color: primary
     content: ''
 service:
   enable: true
