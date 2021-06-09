@@ -34,6 +34,7 @@ fields:
     labelField: label
   hidden: false
 pages:
+- exampleSite/content/english/project/alexa-gee.md
 - exampleSite/content/english/project/president.md
 - exampleSite/content/english/project/vp-academic.md
 - exampleSite/content/english/project/vp-communications.md
