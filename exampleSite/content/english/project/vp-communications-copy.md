@@ -4,7 +4,7 @@ category = "Executive Council 2020"
 description = "Stephanie Chu"
 draft = true
 image = "/images/Stephanie_Chu-1.jpg"
-title = "VP Communications-(copy)"
+title = "Co-President"
 [[information]]
 info = ""
 label = "Favorite Programming Language:"
