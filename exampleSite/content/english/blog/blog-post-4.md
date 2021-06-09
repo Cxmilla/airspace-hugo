@@ -1,7 +1,7 @@
 ---
 title: Digital News
-date: '2020-03-21T17:07:10.000+00:00'
-author: Adrian Keung
+date: 2021-06-08T17:07:10+00:00
+author: Adrian
 image: images/blog/blog-post-4.jpg
 bg_image: images/featue-bg.jpg
 categories:
@@ -9,10 +9,10 @@ categories:
 tags:
 - Machine
 - AI
-description: Events
+description: Coding
 type: post
 
 ---
-The Latest Digital News
+Digital News
 
-> Feel free to connect to our social medial platform on LinkedIn, Instagram or Facebook to learn more about our events. 
+> Feel free to follow our social media platform in the contacts page to get the latest news on all things DESS.
