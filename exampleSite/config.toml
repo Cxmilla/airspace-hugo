@@ -1,4 +1,4 @@
-baseURL = "https://dess.netlify.com"
+baseURL = "https://dessuofc.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
