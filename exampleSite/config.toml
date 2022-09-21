@@ -1,4 +1,4 @@
-baseURL = "https://uofcdess.netlify.com"
+baseURL = "https://dess.netlify.com"
 disableLanguages = ["fr"]
 disqusShortname = ""
 paginate = "4"
