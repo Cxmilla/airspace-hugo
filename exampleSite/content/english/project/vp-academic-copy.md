@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Executive Council 2021"
+category = "Executive Council 2022"
 description = "Camilla Abdrazakov"
 image = "/images/portfolio/work1.jpg"
 title = "VP Finance and Operations"
