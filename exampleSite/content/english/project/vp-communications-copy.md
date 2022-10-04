@@ -8,7 +8,7 @@ title = "President"
 info = "Lychee"
 label = "Favorite Fruit:"
 [[information]]
-info = "Stephanie Chu"
+info = "Shulamit Philips"
 label = "Name"
 
 +++
