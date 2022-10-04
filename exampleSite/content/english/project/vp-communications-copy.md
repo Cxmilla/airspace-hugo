@@ -1,12 +1,12 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
-description = "Stephanie Chu"
-image = "/images/Stephanie_Chu-1.jpg"
-title = "Co-President"
+description = "Shulamit Philips"
+image = "/images/308140370_5492284334195973_1598358476388003856_n-shulamit-p.jpg"
+title = "President"
 [[information]]
-info = ""
-label = "Favorite Programming Language:"
+info = "Lychee"
+label = "Favorite Fruit:"
 [[information]]
 info = "Stephanie Chu"
 label = "Name"
