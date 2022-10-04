@@ -2,7 +2,6 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
 description = "Fabiha Chohan"
-draft = true
 image = "/images/img_8419-fabiha-chohan.jpeg"
 title = "Second Year Representative"
 [[information]]
