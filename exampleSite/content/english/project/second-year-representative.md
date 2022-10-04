@@ -8,7 +8,7 @@ title = "Second Year Representative"
 info = "Fabiha Chohan"
 label = "Name"
 [[information]]
-info = "Mangoes "
+info = "Mango"
 label = "Favorite Fruit:"
 
 +++
