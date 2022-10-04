@@ -1,22 +1,21 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2022"
-description = "Max Norris"
-draft = true
-image = "/images/img_1611-maxwell-norris.JPG"
+description = "Stephanie Chu"
+image = "/images/00100dportrait_00100_burst20200124165139150_cover.jpg"
 title = "VP Communications and Media"
 [[information]]
-info = "Max Norris"
+info = "Stephanie Chu"
 label = "Name"
 [[information]]
-info = "Nectarine "
-label = "Favorite Fruit:"
+info = "Blackberries"
+label = "Favorite Fruit"
 
 +++
 # Description
 
-Hi, I'm Max! I just finished third year mechanical engineering and am now on internship at TC Energy. One fun fact about me is that I love to ski. You will definitely catch me using all my flex days at work to catch some sick powder at Lake Louise!
+Stephanie is in her final year of Chemical Engineering. She enjoys hiking, baking and spending time with family and friends.
 
 # Contact
 
-Email: maxwell.norris@ucalgary.ca
+Email: stephanie.chu2@ucalgary.ca
