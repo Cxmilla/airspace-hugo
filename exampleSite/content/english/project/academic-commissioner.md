@@ -1,22 +1,21 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
-description = "Max Norris"
-draft = true
-image = "/images/img_1611-maxwell-norris.JPG"
+description = "Dinesh Mamnani"
+image = "/images/img-20220507-wa0001-dinesh-mamnani.jpeg"
 title = "Academic Commissioner "
 [[information]]
-info = "Max Norris"
+info = "Dinesh Mamnani"
 label = "Name"
 [[information]]
-info = "Nectarine "
+info = "Mango"
 label = "Favorite Fruit:"
 
 +++
 # Description
 
-Hi, I'm Max! I just finished third year mechanical engineering and am now on internship at TC Energy. One fun fact about me is that I love to ski. You will definitely catch me using all my flex days at work to catch some sick powder at Lake Louise!
+My name is Dinesh Mamnani studying in second year. My major is Chemical Engineering with a minor in Digital engineering. I currently work as a learning assistant at University of Calgary for the first year courses.
 
 # Contact
 
-Email: maxwell.norris@ucalgary.ca
+Email: dinesh.mamnani@ucalgary.ca
