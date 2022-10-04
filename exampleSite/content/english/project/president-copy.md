@@ -1,19 +1,21 @@
 +++
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
-description = "Adrian Keung"
-image = "/images/AK.jpg"
+description = "Max Norris"
+image = "/images/img_1611-maxwell-norris.JPG"
 title = "VP External"
 [[information]]
-info = "Adrian Keung"
+info = "Max Norris"
 label = "Name"
 [[information]]
-info = "Python and HTML"
-label = "Favorite Programming language:"
+info = "Nectarine "
+label = "Favorite Fruit:"
 
 +++
+# Description
+
+Hi, I'm Max! I just finished third year mechanical engineering and am now on internship at TC Energy. One fun fact about me is that I love to ski. You will definitely catch me using all my flex days at work to catch some sick powder at Lake Louise!
+
 # Contact
 
-Feel free to email me if you have any questions or concerns.
-
-Email: adrian.keung@ucalgary.ca
+Email: maxwell.norris@ucalgary.ca
