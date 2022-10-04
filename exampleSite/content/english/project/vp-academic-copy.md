@@ -2,7 +2,7 @@
 bg_image = ""
 category = "Executive Council 2022"
 description = "Camilla Abdrazakov"
-image = "/images/camilla.jpg"
+image = "/images/ccc841e4-1256-4f61-9e11-a5647235867d-camilla-abdrazakov.jpeg"
 title = "Technology Commissioner"
 [[information]]
 info = "Camilla Abdrazakov"
