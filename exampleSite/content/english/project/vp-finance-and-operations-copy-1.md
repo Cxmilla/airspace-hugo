@@ -2,14 +2,14 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
 description = "Alexa Gee"
-image = "/images/Alexa_Gee.jpg"
-title = "Co-President"
+image = "/images/alexa-gee-headshot-alexa-gee.jpeg"
+title = "VP Experiential Learning"
 [[information]]
 info = "Alexa Gee"
 label = "Name"
 [[information]]
-info = ""
-label = "Favorite Programming Language:"
+info = "White Nectarine"
+label = "Favorite Fruit:"
 
 +++
 # Contact
