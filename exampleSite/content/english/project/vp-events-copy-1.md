@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2021"
+category = "Executive Council 2022"
 description = "Jennifer Shearer"
 image = "/images/20220928_162621_mh1664404357496-jennifer-shearer.jpg"
 title = "Events Commissioner"
