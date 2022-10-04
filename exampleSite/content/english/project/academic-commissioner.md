@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2021"
 description = "Dinesh Mamnani"
-image = "/images/img-20220507-wa0001-dinesh-mamnani.jpeg"
+image = "/images/img-20220507-wa0001dinesh-mamnani.jpeg"
 title = "Academic Commissioner "
 [[information]]
 info = "Dinesh Mamnani"
