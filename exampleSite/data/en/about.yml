@@ -4,10 +4,20 @@ about:
   image: images/company/about.jpg
   title: We strive to be the best in <br> enhancing the experience within the Digital
     Minor.
-  content: "The Digital Engineering Students’ Society (DESS) is a collective association
-    which represents engineering students in the Digital Minor at the University of
-    Calgary. \n\nWe work hard to provide students the opportunity to participate in
-    projects that enhance the learning of content taught within the Digital Minor.
+  content: "The Digital Engineering Students’ Society (DESS) is a student-run organization which represents 200+ students enrolled in the Digital Engineering minor
+at the Schulich School of Engineering.
+
+The Digital Engineering minor allows students without a Software
+Engineering background to develop the skills necessary for coding
+literacy and its applications through hands-on projects involving
+machine learning, AI (Artificial Intelligence), IoT (Internet of Things)
+and more.
+
+As technology continues to advance across all industries, DESS
+aims to supplement those enrolled in this minor by providing
+opportunities for individuals to network and strengthen their
+understanding about the tools and skills used to innovate in their
+respective fields.
     <br/> "
   button:
     enable: true
