@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2021"
+category = "Executive Council 2022"
 description = "Adrian Keung"
 image = "/images/img_20220203_015127_117-adrian-k.jpg"
 title = "VP Academic"
