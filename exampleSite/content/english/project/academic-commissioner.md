@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2021"
+category = "Executive Council 2022"
 description = "Dinesh Mamnani"
 image = "/images/img-20220507-wa0001dinesh-mamnani.jpeg"
 title = "Academic Commissioner "
