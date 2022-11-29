@@ -1,6 +1,6 @@
 +++
 bg_image = ""
-category = "Executive Council 2022"
+category = "Communications"
 description = "Camilla Abdrazakov"
 image = "/images/ccc841e4-1256-4f61-9e11-a5647235867d-camilla-abdrazakov.jpeg"
 title = "Technology Commissioner"
