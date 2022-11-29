@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "President"
 description = "Shulamit Philips"
 image = "/images/image1.jpeg"
 title = "President"
