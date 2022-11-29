@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2022"
 description = "Max Norris"
-image = "/images/img_1611-maxwell-norris.JPG"
+image = "/images/img_0850-1-maxwell-norris.JPG"
 title = "VP External"
 [[information]]
 info = "Max Norris"
