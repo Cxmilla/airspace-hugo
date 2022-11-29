@@ -31,7 +31,6 @@ fields:
   hidden: false
 pages:
 - exampleSite/content/english/project/president.md
-- exampleSite/content/english/project/vp-academic-copy.md
 - exampleSite/content/english/project/vp-academic.md
 - exampleSite/content/english/project/vp-communications.md
 - exampleSite/content/english/project/vp-events.md
