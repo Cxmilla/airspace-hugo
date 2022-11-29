@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "Experiential Learning"
 description = "Alexa Gee"
 image = "/images/alexa-gee-headshot-alexa-gee.jpeg"
 title = "VP Experiential Learning"
