@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "External"
 description = "Max Norris"
 image = "/images/img_0850-1-maxwell-norris.JPG"
 title = "VP External"
