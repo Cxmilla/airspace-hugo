@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "Events"
 description = "Nicole Tan"
 image = "/images/20220928_163439_mh1664414015323-nicole-tan.jpg"
 title = "VP Events"
