@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "Communications"
 description = "Stephanie Chu"
 image = "/images/00100dportrait_00100_burst20200124165139150_cover.jpg"
 title = "VP Communications and Media"
