@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Executive Council 2022"
 description = "Shulamit Philips"
-image = "/images/308140370_5492284334195973_1598358476388003856_n-shulamit-p.jpg"
+image = "/images/image1.jpeg"
 title = "President"
 [[information]]
 info = "Lychee"
