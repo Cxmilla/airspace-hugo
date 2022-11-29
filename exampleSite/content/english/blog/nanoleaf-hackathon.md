@@ -5,7 +5,7 @@ categories = ["Hackathon"]
 date = 2022-09-24T23:00:00Z
 description = "Club Announcment"
 image = "/images/20220923_174715.jpg"
-tags = ["News", "Clubs"]
+tags = ["Hackathon", "News"]
 title = "Nanoleaf Hackathon"
 type = "post"
 
