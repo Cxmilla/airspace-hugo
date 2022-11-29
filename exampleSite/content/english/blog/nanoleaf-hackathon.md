@@ -4,7 +4,6 @@ bg_image = "images/featue-bg.jpg"
 categories = ["Hackathon"]
 date = 2022-09-24T23:00:00Z
 description = "Club Announcment"
-draft = true
 image = "/images/20220923_174715.jpg"
 tags = ["News", "Clubs"]
 title = "Nanoleaf Hackathon"
