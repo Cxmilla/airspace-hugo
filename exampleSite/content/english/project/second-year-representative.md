@@ -1,6 +1,6 @@
 +++
 bg_image = "/images/featue-bg.jpg"
-category = "Executive Council 2022"
+category = "Representatives"
 description = "Fabiha Chohan"
 image = "/images/img_8419-fabiha-chohan.jpeg"
 title = "Second Year Representative"
