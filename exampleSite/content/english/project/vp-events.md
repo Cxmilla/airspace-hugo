@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Events"
 description = "Nicole Tan"
-image = "/images/20220928_163439_mh1664414015323-nicole-tan.jpg"
+image = "/images/nicole-tan2.jpg"
 title = "VP Events"
 [[information]]
 info = "Nicole Tan"
