@@ -2,7 +2,7 @@
 bg_image = ""
 category = "Communications"
 description = "Camilla Abdrazakov"
-image = "/images/ccc841e4-1256-4f61-9e11-a5647235867d-camilla-abdrazakov.jpeg"
+image = "/images/camilla2.jpg"
 title = "Technology Commissioner"
 [[information]]
 info = "Camilla Abdrazakov"
