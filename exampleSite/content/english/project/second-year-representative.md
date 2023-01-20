@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Representatives"
 description = "Fabiha Chohan"
-image = "/images/img_8419-fabiha-chohan.jpeg"
+image = "/images/img_8419-fabiha-chohan2.jpeg"
 title = "Second Year Representative"
 [[information]]
 info = "Fabiha Chohan"
