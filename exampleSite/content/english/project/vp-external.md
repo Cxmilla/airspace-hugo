@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "External"
 description = "Max Norris"
-image = "/images/img_0850-1-maxwell-norris.JPG"
+image = "/images/maxwell-norris2.jpg"
 title = "VP External"
 [[information]]
 info = "Max Norris"
