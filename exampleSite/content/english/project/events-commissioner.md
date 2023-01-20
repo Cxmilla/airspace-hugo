@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Events"
 description = "Jennifer Shearer"
-image = "/images/20220928_162621_mh1664404357496-jennifer-shearer.jpg"
+image = "/images/jennifer-shearer2.jpg"
 title = "Events Commissioner"
 [[information]]
 info = "Jennifer Shearer"
