@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Academic"
 description = "Dinesh Mamnani"
-image = "/images/img-20220507-wa0001dinesh-mamnani.jpeg"
+image = "/images/dinesh.jpg"
 title = "Academic Commissioner "
 [[information]]
 info = "Dinesh Mamnani"
