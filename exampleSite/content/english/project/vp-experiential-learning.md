@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "Experiential Learning"
 description = "Alexa Gee"
-image = "/images/alexa-gee-headshot-alexa-gee.jpeg"
+image = "/images/alexa2.jpeg"
 title = "VP Experiential Learning"
 [[information]]
 info = "Alexa Gee"
