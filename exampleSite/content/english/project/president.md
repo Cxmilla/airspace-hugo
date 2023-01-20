@@ -2,7 +2,7 @@
 bg_image = "/images/featue-bg.jpg"
 category = "President"
 description = "Shulamit Philips"
-image = "/images/image1.jpeg"
+image = "/images/shulamit2.jpeg"
 title = "President"
 [[information]]
 info = "Lychee"
