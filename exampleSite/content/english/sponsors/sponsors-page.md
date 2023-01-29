@@ -13,8 +13,8 @@ description = ""
 image = ""
 tags = []
 template = "post"
-title = ""
+title = "GOLD TIER SPONSORS"
 type = "post"
 
 +++
-Thank you to our sponsors
+Thank you to our sponsors!!
