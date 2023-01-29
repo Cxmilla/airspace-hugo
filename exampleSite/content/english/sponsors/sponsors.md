@@ -2,7 +2,6 @@
 Sponsors_Page = "Sponsors"
 bg_image = ""
 description = "test"
-draft = true
 [[sponsors]]
 author = "cam"
 bg_image = ""
