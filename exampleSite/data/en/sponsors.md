@@ -1,5 +1,5 @@
 +++
-Sponsors_Page = "Sponsors"
+Sponsors_Page = "Sponsors.yml"
 bg_image = "/images/dess-logo.jpg"
 description = "Test description"
 [sponsor_fields_test]
