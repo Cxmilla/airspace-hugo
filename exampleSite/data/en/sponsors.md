@@ -2,7 +2,6 @@
 Sponsors_Page = "Sponsors"
 bg_image = "/images/dess-logo.jpg"
 description = "Test description"
-draft = true
 [sponsor_fields_test]
 [[sponsors]]
 author = ""
