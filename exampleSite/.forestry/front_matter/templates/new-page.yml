@@ -1,6 +1,7 @@
 ---
-label: New Page
+label: Sponsors
 hide_body: false
+display_field: Sponsors_Page
 fields:
 - type: text
   name: Sponsors_Page
