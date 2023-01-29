@@ -11,8 +11,21 @@ fields:
 - name: bg_image
   type: file
   config:
-    maxSize: 250
+    maxSize: 64
   label: bg image
   description: page header background image
+- name: sponsor_fields_test
+  type: field_group
+  config: {}
+  label: sponsor fields test
+- name: sponsors
+  type: blocks
+  label: Sponsors
+  template_types:
+  - post
+  config:
+    min: 0
+    max: 
+  description: Thank you to the following sponsors for their contributions!
 pages:
 - exampleSite/content/english/sponsors/sponsors-page.md
