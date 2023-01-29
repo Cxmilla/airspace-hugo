@@ -24,3 +24,5 @@ fields:
     min: 1
     max: 
   description: Thank you to the following sponsors for their contributions!
+pages:
+- exampleSite/content/english/sponsors/sponsors.md
