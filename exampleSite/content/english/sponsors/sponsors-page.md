@@ -2,7 +2,6 @@
 Sponsors_Page = "Gold Tier"
 bg_image = "/images/horizontal_schulich_school_of_engineering_logo-svg.png"
 description = "Schulich School of Engineering "
-draft = true
 title = "Sponsors Page"
 [sponsor_fields_test]
 [[sponsors]]
