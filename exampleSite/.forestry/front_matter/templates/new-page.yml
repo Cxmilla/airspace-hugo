@@ -24,7 +24,7 @@ fields:
   template_types:
   - post
   config:
-    min: 0
+    min: 1
     max: 
   description: Thank you to the following sponsors for their contributions!
 pages:
