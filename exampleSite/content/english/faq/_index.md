@@ -2,7 +2,7 @@
 title: Frequently Asked Questions
 description: Digital Engineering Students' Society
 subtitle: ""
-#date: 2020-03-21T06:05:29.000+00:00
+date: 2022-02-13T06:05:29.000+00:00
 bg_image: images/featue-bg.jpg
 ---
 
