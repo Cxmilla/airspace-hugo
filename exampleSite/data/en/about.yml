@@ -1,9 +1,7 @@
 ---
 about:
   enable: true
-  image: images/company/about.jpg
-  title: We strive to be the best in <br> enhancing the experience within the Digital
-    Minor.
+  title: What Does DESS Do?
   content: "The Digital Engineering Students’ Society (DESS) is a student-run organization which represents 200+ students enrolled in the Digital Engineering minor at the Schulich School of Engineering.
     \n\n
     The DESS Team aims to supplement those enrolled in the minor by providing opportunities for individuals to network and strengthen their understanding about the tools and skills used to innovate in their respective fields.
@@ -11,6 +9,7 @@ about:
 
     
       <br/> "
+  image: images/dess-logo.jpg
   button:
     enable: true
     label: Home
