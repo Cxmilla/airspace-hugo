@@ -5,14 +5,23 @@ about:
   content: "The digital minor blends program-specific knowledge with skills that will allow students to exploit high-technology systems, cyber-physical systems, work with Internet of Things, data analytics and apply machine learning, and information systems in their discipline using Python.
 
     \n\n **Why Join Digital?**
-    Increasingly, engineers are required to work with computer, information,
+    \n\nIncreasingly, engineers are required to work with computer, information,
     and digital technology as part of fulfilling their role on projects. No matter
     what an engineer’s major area is whether it is chemical, oil and gas, civil, electrical,
     software, geomatics, mechanical, there is a growing expectation that these professionals
     are able to enhance and augment their focus with specialized knowledge of such
     technologies. \n\nStudies have suggested that there exist a severe shortage of
     engineers having digital skill sets. This minor aims to address this shortage
-    and equip graduating engineers with valuable and in-demand digital skills. "
+    and equip graduating engineers with valuable and in-demand digital skills. 
+    \n\n **Who Can Take the Digital Minor?
+    \n\n If you are majoring in Mechanical, Civil, Geomatics, Chemical, Electrical, or Biomedical Engineering, you are eligible to take the digital minor.
+    \n\n **What Courses Do Digital Students Take?
+    \n\n ENDG310: Learning Principles of Software Design with Python, Python libraries, HTML & CSS, Data analysis and visualization
+    \n\n ENDG311: Practical software applications (GLI, GUIs, Websites), Advanced topics (object oriented programming, concurrent programming, socket programming, etc.)
+    \n\n ENDG410: Machine Learning fundamentals and applications using libraries (SciKit Learn), Supervised and unsupervised learning
+    \n\n ENDG411: Advanced AI topics (fastai & pytorch libraries), Computer vision and image classification, Natural Language Processing
+    \n\n ENDG511: Fundamentals of Industrial Internet of Things (IIoT) Systems, Convolutional neural networks, Transfer learning, Optimizing processes through pruning & quantization
+    \n\n ENDG510: Fundamental principles for designing cyber-physical systems, Cyber security & reliability, Simulating IoT systems"
   image: images/company/company-group-pic.jpg
 featured_service:
   enable: true
