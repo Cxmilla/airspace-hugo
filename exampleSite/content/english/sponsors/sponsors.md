@@ -2,6 +2,9 @@
 Sponsors_Page = "Sponsors"
 bg_image = ""
 description = "test"
+[menu.main]
+name = "Sponsors"
+weight = 7
 [[sponsors]]
 author = "cam"
 bg_image = ""
