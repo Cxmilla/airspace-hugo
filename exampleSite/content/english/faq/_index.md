@@ -1,11 +1,11 @@
 ---
 title: Frequently Asked Questions
 description: Digital Engineering Students' Society
-subtitle: ''
-date: 2020-03-21T06:05:29.000+00:00
+subtitle: ""
+#date: 2020-03-21T06:05:29.000+00:00
 bg_image: images/featue-bg.jpg
-
 ---
+
 ### Welcome to DESS!
 
 If you have any questions, ideas or anything to share to the association, feel free to contact us and provide us your contact details within the contact page.
@@ -18,7 +18,9 @@ It stands for Digital Engineering Students' Society :)
 
 #### 2. When is your next event?
 
-Feel free to follow us on Facebook, Instagram, Linkedin or visit this page for the latest updates on events and updates.
+Join our Discord (invite below) or follow us on Instagram (@uofcdess) for latest updates on events and updates!
+
+Discord invite: https://discord.gg/P95E6uA3kk
 
 #### 3. Can I still join the events even if I am not in the Digital Minor?
 
@@ -26,9 +28,7 @@ Our events are not limited to those within the Digital Minor. We aim to be as in
 
 #### 4. What is the digital minor?
 
-The digital is a minor which teaches students to develop some software engineering and coding skills while pursuing a non-software engineering major.
-
-Students learn about artificial intelligence, machine learning, the Internet of Things and more. Feel free to check out more under this link: [https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors](https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors "https://schulich.ucalgary.ca/future-students/undergraduate/programs/minors")
+Please visit our Digital Minor Page for details: https://dessuofc.netlify.app/service/
 
 #### 5. Is there a membership fee?
 

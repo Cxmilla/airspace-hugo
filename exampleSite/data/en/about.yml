@@ -4,32 +4,24 @@ about:
   image: images/company/about.jpg
   title: We strive to be the best in <br> enhancing the experience within the Digital
     Minor.
-  content: "The Digital Engineering Students’ Society (DESS) is a student-run organization which represents 200+ students enrolled in the Digital Engineering minor
-at the Schulich School of Engineering.
-\n\n
-The Digital Engineering minor allows students without a Software
-Engineering background to develop the skills necessary for coding
-literacy and its applications through hands-on projects involving
-machine learning, AI (Artificial Intelligence), IoT (Internet of Things)
-and more.
-\n\n
-As technology continues to advance across all industries, DESS
-aims to supplement those enrolled in this minor by providing
-opportunities for individuals to network and strengthen their
-understanding about the tools and skills used to innovate in their
-respective fields.
-    <br/> "
+  content: "The Digital Engineering Students’ Society (DESS) is a student-run organization which represents 200+ students enrolled in the Digital Engineering minor at the Schulich School of Engineering.
+    \n\n
+    The DESS Team aims to supplement those enrolled in the minor by providing opportunities for individuals to network and strengthen their understanding about the tools and skills used to innovate in their respective fields.
+    We host a variety of academic and social events throughout the year including hackathons, industry events, midterm review sessions, games nights, speed-friending, ENGG Week, Minor Olympics.
+
+    
+      <br/> "
   button:
     enable: true
     label: Home
     link: "#"
-  funfacts:
+funfacts:
   - icon: ion-ios-flask-outline
     name: Midterm Review Sessions Hosted
     count: "1"
-  - icon: ion-ios-flame-outline
-    name: Lines Of Code
-    count: "35000"
+  #- icon: ion-ios-flame-outline
+   # name: Lines Of Code
+    #count: "35000"
   - icon: ion-ios-pint-outline
     name: Students Enrolled
     count: "121"
